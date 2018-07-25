@@ -10,6 +10,5 @@ redirect_from:
 
 This is Dr. Sandeep Kumar Reddy's home on the web!
 
-+Lorem ipsum.
   
 
