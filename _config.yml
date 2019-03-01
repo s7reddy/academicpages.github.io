@@ -17,7 +17,9 @@ repository               : "s7reddy/s7reddy.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
+future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
@@ -83,8 +85,15 @@ author:
   bio              : "Assistant Professor at Indian Institute of Technology (IIT) Kharagpur"
   location         : "Kharagpur"
   employer         :
+<<<<<<< HEAD
   googlescholar    : "https://scholar.google.com/citations?user=uISTfwgAAAAJ&hl=en"
   email            : "skreddy@iitkgp.ac.in"
+=======
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
+  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+>>>>>>> upstream/master
   uri              :
   bitbucket        :
   codepen          :
@@ -268,7 +277,7 @@ timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist

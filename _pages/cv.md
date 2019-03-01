@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+<<<<<<< HEAD
 * 2003-2006: B.Sc. in Applied Sciences
   * Sardar Patel College, Osmania University, Hyderabad, India
 * 2006-2008: M.Sc. in Physics 
@@ -19,6 +20,11 @@ Education
   * Chemistry and Physics of Materials Unit, Jawaharlal Nehru Centre for Advanced Scientific Research, Bangalore, India
   * Thesis title: "Investigations of Carbonic Acid, Dimethyl Carbonate and the Adsorption of CO2 in framework Solids"
   * Supervisor: Prof. Balasubramanian Sundaram
+=======
+* B.S. in GitHub, GitHub University, 2012
+* M.S. in Jekyll, GitHub University, 2014
+* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+>>>>>>> upstream/master
 
 Research experience
 ======
