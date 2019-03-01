@@ -85,15 +85,10 @@ author:
   bio              : "Assistant Professor at Indian Institute of Technology (IIT) Kharagpur"
   location         : "Kharagpur"
   employer         :
-<<<<<<< HEAD
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=uISTfwgAAAAJ&hl=en"
   email            : "skreddy@iitkgp.ac.in"
-=======
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
->>>>>>> upstream/master
   uri              :
   bitbucket        :
   codepen          :
