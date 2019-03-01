@@ -1,8 +1,3 @@
----
-title: "Research statement"
-collection: research
----
-
 Our research is mainly centered on fundamental understanding of structure,
 dynamics and chemical reactions at the catalytic and environmental interfaces
 using the state-of-the-art simulation techniques. We employ molecular dynamics
